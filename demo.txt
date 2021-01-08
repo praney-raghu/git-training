@@ -1,1 +1,4 @@
 This is a training file for GIT
+
+Adding some lines on this file present on master branch. 
+
